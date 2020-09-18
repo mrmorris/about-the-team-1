@@ -4,4 +4,6 @@
 
 * Ryan Morris
 * Rich Farrell
+* Abe Lincoln
+* Robot
 * [Next Name]
