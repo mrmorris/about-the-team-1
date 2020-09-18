@@ -3,4 +3,4 @@
 * Fav city: Singapore
 * Fav food: Rendang
 * Fav animal: Cat
-* Fav day of week: Saturday
+* Fav day of week: Sunday
