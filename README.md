@@ -3,4 +3,4 @@
 > This is a magical team
 
 * Ryan Morris
-* [Next Name]
+* [Next Name]Naba Kumar Das
